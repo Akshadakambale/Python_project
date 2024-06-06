@@ -83,6 +83,7 @@ You can install these packages using pip:
 ## Repository Structure
 * Supermarket_sales_analysis.ipynb: The main Jupyter Notebook containing the analysis.
 * README.md: Project documentation.
+* supermarket_sales.csv: dataset file
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
