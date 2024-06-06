@@ -15,8 +15,6 @@ Drop irrelevant columns (e.g., gross margin percentage which has only one unique
 ### 3. Exploratory Data Analysis (EDA)
 #### Customer Demographics:
 Analyze the gender distribution of customers.
-<img width="837" alt="image" src="https://github.com/Akshadakambale/Python_project/assets/166009612/a79edf8b-a7e8-446e-a8e1-34d5d2fd5cdd">
-
 Visualize the distribution of male and female customers.
 #### Sales Analysis:
 Examine total sales and average sales per transaction.
